@@ -1,10 +1,10 @@
 <h1>Projeto PIC</h1>
 
-    <p text-align="justify">
-         Projeto da disciplina de embarcados do curso de Engenharia da Computação. Foi desenvolvido um protótipo de uma cortina acionada através de um despertador utilizando app Blynk. Objetivo é realizar as interações através de um aplicativo conectado na internet e a placa Esp8266 NodeMCU.
-    </p>
+<p text-align="justify">
+     Projeto da disciplina de embarcados do curso de Engenharia da Computação. Foi desenvolvido um protótipo de uma cortina acionada através de um despertador utilizando app Blynk. Objetivo é realizar as interações através de um aplicativo conectado na internet e a placa Esp8266 NodeMCU.
+</p>
 
-    <h2>1. TABELA DE COMPONENTES</h2>
+<h2> 1. TABELA DE COMPONENTES</h2>
 <table text-align="center">
   <thead>
       <th text-align="center">COMPONENTES<br>
