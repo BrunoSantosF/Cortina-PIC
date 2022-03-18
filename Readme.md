@@ -185,5 +185,9 @@
       </tr>
   </tbody>
 </table>
-<h2> 2. Demo</h2>
+<h2> 2. Esquemático do circuito</h2>
+
+![esquemático](https://user-images.githubusercontent.com/98439455/159078162-25c1f6a0-ea07-4121-b039-7a766c7402f7.jpg)
+
+<h2> 3. Demo</h2>
 <p><strong>Link</strong>:  https://youtu.be/QcIXpQiUVFY</p
